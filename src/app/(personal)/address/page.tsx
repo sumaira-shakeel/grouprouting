@@ -1,11 +1,8 @@
-
-
-
 import React from 'react'
 
 function page() {
   return (
-    <div>Grouip routes</div>
+    <div>I live in karachi pakistan</div>
   )
 }
 
